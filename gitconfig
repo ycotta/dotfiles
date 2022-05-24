@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = yuricotta@poli.ufrj.br
+	name = Yuri Cotta
